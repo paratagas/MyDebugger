@@ -1,5 +1,5 @@
 # MyDebugger
-MyDebugger is created to help debagging during developing Yii 1.1.* projects.
+MyDebugger is created to help debagging during developing PHP Yii 1.1.* projects.
 
 It shows different useful class data: methods, DocComments, properties and values.
 
